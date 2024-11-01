@@ -5,5 +5,7 @@ int main()
 {
 	//std::cout << "hello world" << std::endl;
 	//BubbleExample();
-	SelectionSortExample();
+	//SelectionSortExample();
+	//InsertSortExample();
+	CountSort();
 }
