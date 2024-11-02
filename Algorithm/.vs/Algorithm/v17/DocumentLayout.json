@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\DataStructure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|solutionrelative:DataStructure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\BackTracking.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|solutionrelative:BackTracking.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\DataStructure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|solutionrelative:DataStructure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\InputReference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -48,7 +52,7 @@
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-15T07:10:52.961Z",
               "IsPinned": true,
@@ -57,19 +61,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BackTracking.h",
+              "DocumentMoniker": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\BackTracking.h",
+              "RelativeDocumentMoniker": "BackTracking.h",
+              "ToolTip": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\BackTracking.h",
+              "RelativeToolTip": "BackTracking.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-02T22:13:44.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DataStructure.h",
               "DocumentMoniker": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\DataStructure.h",
               "RelativeDocumentMoniker": "DataStructure.h",
               "ToolTip": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\DataStructure.h",
               "RelativeToolTip": "DataStructure.h",
-              "ViewState": "AQIAACYAAAAAAAAAAAAuwDYAAAAQAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADYAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-02T10:30:16.223Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Greedy.h",
               "DocumentMoniker": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\Greedy.h",
               "RelativeDocumentMoniker": "Greedy.h",
@@ -81,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DynamicProgramming.cpp",
               "DocumentMoniker": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\DynamicProgramming.cpp",
               "RelativeDocumentMoniker": "DynamicProgramming.cpp",
@@ -93,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "timeChecker.h",
               "DocumentMoniker": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\timeChecker.h",
               "RelativeDocumentMoniker": "timeChecker.h",
@@ -105,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DynamicProgramming.h",
               "DocumentMoniker": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\DynamicProgramming.h",
               "RelativeDocumentMoniker": "DynamicProgramming.h",
@@ -113,12 +130,11 @@
               "RelativeToolTip": "DynamicProgramming.h",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-02T03:09:40.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T03:09:40.443Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "InputReference.cpp",
               "DocumentMoniker": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\InputReference.cpp",
               "RelativeDocumentMoniker": "InputReference.cpp",
@@ -126,8 +142,7 @@
               "RelativeToolTip": "InputReference.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-01T12:43:32.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T12:43:32.083Z"
             }
           ]
         }

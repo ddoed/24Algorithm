@@ -5,6 +5,7 @@
 #include "DivideAndConquer.h"
 #include "DynamicProgramming.h"
 #include "timeChecker.h"
+#include "BackTracking.h"
 
 
 int main()
@@ -51,5 +52,7 @@ int main()
 
 	//std::cout << StairCount(stairs) << std::endl;
 
-	
+	//Permutation::Case01();
+	//Combination::Case02();
+
 }
