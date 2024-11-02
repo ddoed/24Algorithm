@@ -41,8 +41,12 @@ int main()
 	//	std::cout << num << " ";
 	//}
 
-	int count = 10;
-	std::cout << Fibonacci_DP(count) << std::endl;
-	std::cout << measureExecutionTime(Fibonacci, count) << "ms" << std::endl;
-	std::cout << measureExecutionTime(Fibonacci_DP,count) << "ms" << std::endl;
+	//int count = 10;
+	//std::cout << Fibonacci_DP(count) << std::endl;
+	//std::cout << measureExecutionTime(Fibonacci, count) << "ms" << std::endl;
+	//std::cout << measureExecutionTime(Fibonacci_DP,count) << "ms" << std::endl;
+
+	std::vector<int> stairs = { 10,20,15, 25,10,20 };
+
+	std::cout << StairCount(stairs) << std::endl;
 }
