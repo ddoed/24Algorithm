@@ -3,6 +3,8 @@
 #include "InputReference.h"
 #include "Pow.h"
 #include "DivideAndConquer.h"
+#include "DynamicProgramming.h"
+#include "timeChecker.h"
 
 int main()
 {
@@ -38,4 +40,9 @@ int main()
 	//{
 	//	std::cout << num << " ";
 	//}
+
+	int count = 10;
+	std::cout << Fibonacci_DP(count) << std::endl;
+	std::cout << measureExecutionTime(Fibonacci, count) << "ms" << std::endl;
+	std::cout << measureExecutionTime(Fibonacci_DP,count) << "ms" << std::endl;
 }

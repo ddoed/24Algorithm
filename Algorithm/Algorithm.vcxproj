@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="DivideAndConquer.cpp" />
+    <ClCompile Include="DynamicProgramming.cpp" />
     <ClCompile Include="InputReference.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Pow.cpp" />
@@ -135,11 +136,13 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DivideAndConquer.h" />
+    <ClInclude Include="DynamicProgramming.h" />
     <ClInclude Include="InputReference.h" />
     <ClInclude Include="lecture.h" />
     <ClInclude Include="Pow.h" />
     <ClInclude Include="Problem.h" />
     <ClInclude Include="Sort.h" />
+    <ClInclude Include="timeChecker.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

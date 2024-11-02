@@ -3,44 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\Problem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|solutionrelative:Problem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\DynamicProgramming.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|solutionrelative:DynamicProgramming.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\InputReference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|solutionrelative:InputReference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\InputReference.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|solutionrelative:InputReference.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\DivideAndConquer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|solutionrelative:DivideAndConquer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\DynamicProgramming.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|solutionrelative:DynamicProgramming.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\DivideAndConquer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|solutionrelative:DivideAndConquer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\Sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|solutionrelative:Sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\Pow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|solutionrelative:Pow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\Pow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|solutionrelative:Pow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|solutionrelative:Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\timeChecker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|solutionrelative:timeChecker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,57 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 482,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Problem.h",
-              "DocumentMoniker": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\Problem.h",
-              "RelativeDocumentMoniker": "Problem.h",
-              "ToolTip": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\Problem.h",
-              "RelativeToolTip": "Problem.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-02T01:23:29.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Sort.h",
-              "DocumentMoniker": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\Sort.h",
-              "RelativeDocumentMoniker": "Sort.h",
-              "ToolTip": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\Sort.h",
-              "RelativeToolTip": "Sort.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-15T07:45:54.947Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DivideAndConquer.cpp",
-              "DocumentMoniker": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\DivideAndConquer.cpp",
-              "RelativeDocumentMoniker": "DivideAndConquer.cpp",
-              "ToolTip": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\DivideAndConquer.cpp",
-              "RelativeToolTip": "DivideAndConquer.cpp",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAACIAAAAAAAAAAAAowC0AAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-01T13:32:22.258Z",
+              "WhenOpened": "2024-10-15T07:10:52.961Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DivideAndConquer.h",
-              "DocumentMoniker": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\DivideAndConquer.h",
-              "RelativeDocumentMoniker": "DivideAndConquer.h",
-              "ToolTip": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\DivideAndConquer.h",
-              "RelativeToolTip": "DivideAndConquer.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "DocumentIndex": 0,
+              "Title": "DynamicProgramming.cpp",
+              "DocumentMoniker": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\DynamicProgramming.cpp",
+              "RelativeDocumentMoniker": "DynamicProgramming.cpp",
+              "ToolTip": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\DynamicProgramming.cpp",
+              "RelativeToolTip": "DynamicProgramming.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T03:39:14.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "timeChecker.h",
+              "DocumentMoniker": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\timeChecker.h",
+              "RelativeDocumentMoniker": "timeChecker.h",
+              "ToolTip": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\timeChecker.h",
+              "RelativeToolTip": "timeChecker.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-01T13:31:45.641Z"
+              "WhenOpened": "2024-11-02T03:27:35.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DynamicProgramming.h",
+              "DocumentMoniker": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\DynamicProgramming.h",
+              "RelativeDocumentMoniker": "DynamicProgramming.h",
+              "ToolTip": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\DynamicProgramming.h",
+              "RelativeToolTip": "DynamicProgramming.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-02T03:09:40.443Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -110,71 +93,9 @@
               "RelativeDocumentMoniker": "InputReference.cpp",
               "ToolTip": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\InputReference.cpp",
               "RelativeToolTip": "InputReference.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-01T12:43:32.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Pow.h",
-              "DocumentMoniker": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\Pow.h",
-              "RelativeDocumentMoniker": "Pow.h",
-              "ToolTip": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\Pow.h",
-              "RelativeToolTip": "Pow.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-01T13:15:17.175Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Pow.cpp",
-              "DocumentMoniker": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\Pow.cpp",
-              "RelativeDocumentMoniker": "Pow.cpp",
-              "ToolTip": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\Pow.cpp",
-              "RelativeToolTip": "Pow.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-01T13:15:38.223Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InputReference.h",
-              "DocumentMoniker": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\InputReference.h",
-              "RelativeDocumentMoniker": "InputReference.h",
-              "ToolTip": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\InputReference.h",
-              "RelativeToolTip": "InputReference.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-01T12:43:07.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Sort.cpp",
-              "DocumentMoniker": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\Sort.cpp",
-              "RelativeDocumentMoniker": "Sort.cpp",
-              "ToolTip": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\Sort.cpp",
-              "RelativeToolTip": "Sort.cpp",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAAAHEAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-15T07:46:38.143Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-15T07:10:52.961Z",
               "EditorCaption": ""
             }
           ]
