@@ -6,6 +6,7 @@
 #include "DynamicProgramming.h"
 #include "timeChecker.h"
 
+
 int main()
 {
 	//std::cout << "hello world" << std::endl;
@@ -46,7 +47,9 @@ int main()
 	//std::cout << measureExecutionTime(Fibonacci, count) << "ms" << std::endl;
 	//std::cout << measureExecutionTime(Fibonacci_DP,count) << "ms" << std::endl;
 
-	std::vector<int> stairs = { 10,20,15, 25,10,20 };
+	//std::vector<int> stairs = { 10,20,15, 25,10,20 };
 
-	std::cout << StairCount(stairs) << std::endl;
+	//std::cout << StairCount(stairs) << std::endl;
+
+	
 }

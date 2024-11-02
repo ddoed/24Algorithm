@@ -59,5 +59,8 @@
     <ClInclude Include="timeChecker.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="Greedy.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
