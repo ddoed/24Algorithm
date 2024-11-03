@@ -57,6 +57,8 @@ int main()
 	//Permutation::Case01();
 	//Combination::Case02();
 
-	nQueen::Example02();
+	//nQueen::Example02();
+
+	//GraphVec::Print();
 
 }

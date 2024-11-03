@@ -2,6 +2,7 @@
 
 #include <iostream>
 #include <vector>
+#include <algorithm>
 
 using namespace std;
 
@@ -108,5 +109,52 @@ namespace nQueen
 		nQueen(0); // y가 0번째일때 퀸을 어디에 배치해야 하는가
 
 		cout << count;
+	}
+}
+
+namespace GraphVec
+{
+	int n, m;	// n은 세로의 개수, m은 가로의 개수
+	vector<vector<int>> graph;
+
+	void Print()
+	{
+		n = 6, m = 4;
+		graph = vector<vector<int>>(n);
+
+		for (int i = 0;i < m;i++)
+		{
+			int a, b;
+			cin >> a >> b;
+			graph[a].push_back(b);
+			graph[b].push_back(a);
+		}
+
+		// 정렬
+		for (int i = 0;i < n;i++)
+		{
+			sort(graph[i].begin(), graph[i].end());
+		}
+
+		// 출력
+
+		for (int i = 0;i < n;i++)
+		{
+			cout << "[" << i << "] : ";
+			for (int j = 0;j < m;j++)
+			{
+				// graph[i].연결된 데이터가 없을 때 접근할 방법
+				if (j < graph[i].size())
+				{
+					cout << graph[i][j] << ' ';
+				}
+				else
+				{
+					cout << "0 "; 
+				}
+			}
+			cout << '\n';
+		}
+
 	}
 }
