@@ -6,6 +6,8 @@
 #include "DynamicProgramming.h"
 #include "timeChecker.h"
 #include "BackTracking.h"
+#include "array2D.h"
+#include "graph.h"
 
 
 int main()
@@ -54,5 +56,7 @@ int main()
 
 	//Permutation::Case01();
 	//Combination::Case02();
+
+	nQueen::Example02();
 
 }

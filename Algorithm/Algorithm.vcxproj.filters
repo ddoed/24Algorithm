@@ -65,5 +65,14 @@
     <ClInclude Include="DataStructure.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="BackTracking.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="graph.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="array2D.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
