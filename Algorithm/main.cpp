@@ -8,6 +8,7 @@
 #include "BackTracking.h"
 #include "array2D.h"
 #include "graph.h"
+#include "MST.h"
 
 
 int main()
@@ -63,4 +64,5 @@ int main()
 
 	//InputGraph::show();
 
+	InputWeight::Show2();
 }
