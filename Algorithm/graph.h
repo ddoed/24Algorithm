@@ -158,3 +158,39 @@ namespace GraphVec
 
 	}
 }
+
+namespace InputGraph
+{
+	// 문자열 형태로 2차원 배열 표현하기
+	// string : char 배열 [0] -> 1
+
+	const int n=4, m=6;
+
+	vector<vector<int>> graph(n,vector<int>(m,0));
+
+	void show()
+	{
+		// 입력
+		for (int i = 0;i < n;i++)
+		{
+			string inputString;
+			cin >> inputString;
+
+			for (int j = 0;j < m;j++)
+			{
+				graph[i][j] = inputString[j] - '0';
+			}
+		}
+
+		// 출력
+		for (int i = 0;i < n;i++)
+		{
+			for (int j = 0;j < m;j++)
+			{
+				cout << graph[i][j] << ' ';
+			}
+			cout << '\n';
+		}
+	
+	}
+}

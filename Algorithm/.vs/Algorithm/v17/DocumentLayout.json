@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|solutionrelative:graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\MST.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|solutionrelative:MST.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|solutionrelative:graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{750823EF-36FF-4AD9-8F38-C286BDD2D904}|Algorithm.vcxproj|C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\array2D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 482,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -32,7 +36,7 @@
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAcwAoAAAAAAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-15T07:10:52.961Z",
               "IsPinned": true,
@@ -40,7 +44,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "MST.h",
+              "DocumentMoniker": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\MST.h",
+              "RelativeDocumentMoniker": "MST.h",
+              "ToolTip": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\MST.h",
+              "RelativeToolTip": "MST.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-03T08:58:35.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "array2D.h",
               "DocumentMoniker": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\array2D.h",
               "RelativeDocumentMoniker": "array2D.h",
@@ -48,18 +65,17 @@
               "RelativeToolTip": "array2D.h",
               "ViewState": "AQIAAF0AAAAAAAAAAAAAAGcAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-02T23:57:27.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T23:57:27.672Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "graph.h",
               "DocumentMoniker": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\graph.h",
               "RelativeDocumentMoniker": "graph.h",
               "ToolTip": "C:\\Users\\yimna\\OneDrive\\\uC0AC\uC9C4\\\uBC14\uD0D5 \uD654\uBA74\\24Algorithm\\Algorithm\\graph.h",
               "RelativeToolTip": "graph.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ8AAAABAAAA",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAHIAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-02T23:56:40.426Z",
               "EditorCaption": ""

@@ -61,4 +61,6 @@ int main()
 
 	//GraphVec::Print();
 
+	//InputGraph::show();
+
 }
