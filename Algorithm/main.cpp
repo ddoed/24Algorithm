@@ -64,5 +64,7 @@ int main()
 
 	//InputGraph::show();
 
-	InputWeight::Show2();
+	//InputWeight::Show2();
+
+	InputGraph::Show();
 }

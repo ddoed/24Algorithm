@@ -3,6 +3,8 @@
 #include <vector>
 #include <algorithm>
 
+#define INF 9999
+
 using namespace std;
 
 namespace InputWeight
@@ -105,5 +107,35 @@ namespace Union_Find
 			return true;
 		else
 			return false;
+	}
+}
+
+namespace InputGraph
+{
+	void Show()
+	{
+		const int size = 7;
+
+		int graph[7][7] =
+		{
+			{0,67,INF,28,17,INF,12},
+			{67,0,INF,24,62,INF,INF},
+			{INF,INF,0,INF,20,37,INF},
+			{28,24,INF,0,INF,INF,13},
+			{INF,INF,INF,INF,0,INF,INF},
+			{INF,INF,INF,INF,INF,0,INF},
+			{INF,INF,INF,INF,INF,INF,0}
+		};
+
+		for (int i = 0;i < 7;i++)
+		{
+			for (int j = 0;j < 7;j++)
+			{
+				cout << graph[i][j] << ' ';
+			}
+			cout << '\n';
+		}
+
+		int prim[size] = { 0 };
 	}
 }
