@@ -9,6 +9,7 @@
 #include "array2D.h"
 #include "graph.h"
 #include "MST.h"
+#include "Astar.h"
 
 
 int main()
@@ -66,5 +67,7 @@ int main()
 
 	//InputWeight::Show2();
 
-	InputGraph::Show();
+	//InputGraph::Show();
+
+	FoundPath::SolveProblem();
 }

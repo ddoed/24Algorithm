@@ -136,6 +136,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array2D.h" />
+    <ClInclude Include="Astar.h" />
     <ClInclude Include="BackTracking.h" />
     <ClInclude Include="DataStructure.h" />
     <ClInclude Include="DivideAndConquer.h" />
