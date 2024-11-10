@@ -10,6 +10,8 @@
 #include "graph.h"
 #include "MST.h"
 #include "Astar.h"
+#include "RegularExpression.h"
+#include "Huffman.h"
 
 
 int main()
@@ -69,5 +71,9 @@ int main()
 
 	//InputGraph::Show();
 
-	FoundPath::SolveProblem();
+	//FoundPath::GetBoard();
+
+	//Express();
+
+	EnCoding::Test();
 }

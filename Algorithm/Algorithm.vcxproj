@@ -143,11 +143,13 @@
     <ClInclude Include="DynamicProgramming.h" />
     <ClInclude Include="graph.h" />
     <ClInclude Include="Greedy.h" />
+    <ClInclude Include="Huffman.h" />
     <ClInclude Include="InputReference.h" />
     <ClInclude Include="lecture.h" />
     <ClInclude Include="MST.h" />
     <ClInclude Include="Pow.h" />
     <ClInclude Include="Problem.h" />
+    <ClInclude Include="RegularExpression.h" />
     <ClInclude Include="Sort.h" />
     <ClInclude Include="timeChecker.h" />
   </ItemGroup>
